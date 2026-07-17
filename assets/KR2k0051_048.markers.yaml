@@ -1168,6 +1168,7 @@ markers:
   - {type: line-break, offset: 3636, content: '', id: KR2k0051_WYG_048-12b08}
   - {type: indent, offset: 3636, content: 　, id: KR2k0051_krp_048-bkkind194}
   - {type: punctuation, offset: 3643, content: (, id: KR2k0051_krp_048-bkkpn1}
+  - {type: voice, offset: 3643, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 3648, content: /, id: KR2k0051_krp_048-bkkpn2}
   - {type: punctuation, offset: 3653, content: ), id: KR2k0051_krp_048-bkkpn3}
   - {type: 'kr:newline', offset: 3661, content: '
@@ -1739,6 +1740,7 @@ markers:
   - {type: line-break, offset: 5468, content: '', id: KR2k0051_WYG_048-18b05}
   - {type: indent, offset: 5468, content: 　, id: KR2k0051_krp_048-bkkind287}
   - {type: punctuation, offset: 5472, content: (, id: KR2k0051_krp_048-bkkpn4}
+  - {type: voice, offset: 5472, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 5474, content: /, id: KR2k0051_krp_048-bkkpn5}
   - {type: 'kr:non-cjk', offset: 5474, content: □, id: KR2k0051_krp_048-bkkkrnonc1}
   - {type: punctuation, offset: 5474, content: ), id: KR2k0051_krp_048-bkkpn6}
@@ -2157,10 +2159,12 @@ markers:
   - {type: line-break, offset: 6788, content: '', id: KR2k0051_WYG_048-22b07}
   - {type: indent, offset: 6788, content: 　, id: KR2k0051_krp_048-bkkind353}
   - {type: punctuation, offset: 6789, content: (, id: KR2k0051_krp_048-bkkpn7}
+  - {type: voice, offset: 6789, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 6791, content: /, id: KR2k0051_krp_048-bkkpn8}
   - {type: 'kr:non-cjk', offset: 6791, content: □, id: KR2k0051_krp_048-bkkkrnonc2}
   - {type: punctuation, offset: 6791, content: ), id: KR2k0051_krp_048-bkkpn9}
   - {type: punctuation, offset: 6798, content: (, id: KR2k0051_krp_048-bkkpn10}
+  - {type: voice, offset: 6798, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 6800, content: /, id: KR2k0051_krp_048-bkkpn11}
   - {type: punctuation, offset: 6801, content: ), id: KR2k0051_krp_048-bkkpn12}
   - {type: substitution, offset: 6806, original: 幇, replacement: 幫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16848}}
@@ -6618,4 +6622,4 @@ markers:
 
       ', id: KR2k0051_krp_048-bkkkrnewl1205}
   back: []
-hash: sha256:5c5ea9e1f325080d32af0605195a86572180be15fa9730b8910d6d99fbb0480b
+hash: sha256:c116e89ee5101c1f281654b5c759266276ea015bc385eb112fc1a8da7b3505be
